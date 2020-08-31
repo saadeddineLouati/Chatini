@@ -159,7 +159,7 @@ const Maximized = ({
 					color: '#888',
 				}}
 			>
-				{'Powered by LiveChat'}
+				{'Powered by Saadeddine LOUATI'}
 			</div>
 		</div>
 	)
